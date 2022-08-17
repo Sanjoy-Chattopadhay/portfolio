@@ -1,5 +1,5 @@
 # Portfolio 
-My portfolio page is actually describing my Resume. You explore the web page with a jeep, and you can see information such as:
+My portfolio page is actually describing my Resume. You explore the web page with a jeep, and you can see information such as:<br>
 ' Education <br>
 ' Work Experience <br>
 ' Projects <br>
