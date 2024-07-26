@@ -1,17 +1,63 @@
-# Portfolio 
-My portfolio page is actually describing my Resume. You explore the web page with a jeep, and you can see information such as:<br>
-' Education <br>
-' Work Experience <br>
-' Projects <br>
-' My Social Media Handles <br>
- # Tools
-I have used html, css, bootstrap for designing and JavaScript for adding some of the cool features like Buttons and Dark Mode etc.
-# Link 
-https://sanjoy-chattopadhay.github.io/portfolio/
-# Screenshots
-![1](https://user-images.githubusercontent.com/64368749/185241498-cc15d559-84e6-4a6f-9bc4-2ef791a5b88e.png)
-![2](https://user-images.githubusercontent.com/64368749/185241502-8c718a14-3882-425e-a958-a0c01cf0985d.png)
-![3](https://user-images.githubusercontent.com/64368749/185241506-28bc19ea-d3c2-4d69-bd13-3d605b593bb7.png)
-![4](https://user-images.githubusercontent.com/64368749/185241508-c6d57ef3-9a9c-4c9a-a782-f9f46e300e7b.png)
-![5](https://user-images.githubusercontent.com/64368749/185241511-833dc6a5-9416-4d13-9828-04f431225469.png)
-![6](https://user-images.githubusercontent.com/64368749/185241512-5a483607-c3d6-4ec0-965b-815bbca9d179.png)
+# Portfolio Website
+
+Welcome to my portfolio! This repository contains the source code for my personal portfolio website, which showcases my skills, projects, and achievements.
+
+## Demo
+
+You can view the live portfolio website here: [Portfolio Website](https://sanjoy-chattopadhay.github.io/portfolio/)
+
+## Features
+
+- **Responsive Design:** The website is designed to be fully responsive and provides a seamless experience across different devices and screen sizes.
+- **Interactive Sections:** Includes animated sections for services, skills, and projects to enhance user engagement.
+- **Skills Display:** Showcases a comprehensive list of technical skills with icons and categories.
+- **Project Portfolio:** Displays a selection of projects with brief descriptions and links.
+- **Page View Counter:** A simulated page view counter that displays a random number of views.
+
+## Technologies Used
+
+- **HTML**: Markup language used for structuring the content of the website.
+- **CSS**: Stylesheet language used for designing and laying out the visual appearance of the website.
+- **JavaScript**: Programming language used to add interactive elements and functionalities, such as the page view counter and animations.
+- **Font Awesome**: Icon library used for adding vector icons to the website.
+
+## Installation
+
+To run this project locally:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/sanjoy-chattopadhay/portfolio.git
+2. **Navigate to the Project Directory:**
+
+```bash
+cd portfolio
+```
+3. **Open the index.html file in your browser.**
+
+
+## Usage
+
+- **View Portfolio:** Navigate through the various sections of the website to explore details about my skills, projects, and professional achievements.
+- **Interactive Elements:** Hover over images and buttons to experience dynamic animations and effects designed to enhance user interaction.
+- **Page View Counter:** The page features a view counter that displays a randomly generated number of views. Refresh the page to see the view count update.
+
+## Contributing
+
+If you would like to contribute to this project:
+
+1. **Open an Issue:** Report any bugs or suggest improvements by opening an issue in the repository.
+2. **Submit a Pull Request:** Contribute code changes or enhancements by submitting a pull request. Ensure your changes are well-documented and tested.
+
+We welcome contributions and feedback to help improve the project!
+
+
+## Contact
+
+For any inquiries, feedback, or collaboration opportunities, please contact me at [chattopadhyaysanjoy308@gmail.com](mailto:your-email@example.com).
+
+
+
+---
+
+Thank you for visiting my portfolio and exploring my work!
